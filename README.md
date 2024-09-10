@@ -7,8 +7,8 @@ I opted to concentrate on Jersey City data from July 2022 to July 2023, inclusiv
 
 Using Jupyter Notebook, I appended and cleaned the data files to create a single, consolidated source for uploading to Tableau Public. Once uploaded, I populated worksheets with various measures and views to extract insights. This allowed me to construct a narrative by creating four dashboards. Finally, I designed a dashboard to display data outliers and explained the rationale behind their exclusion from the analysis.
 
-**The url to my Tableau Public Workbook:**
-https://public.tableau.com/app/profile/katharine.tamas/viz/NewYorkCitiBikeAnalysis_16953918404890/JerseyCityBikesStory?publish=yes
+**The URL to my Tableau Public Workbook:**
+https://public.tableau.com/app/profile/neal.labern/viz/New_York_CitiBike_Analysis/JerseyCityBikesStory?publish=yes
 
 
 **Repository Folders and Contents:**

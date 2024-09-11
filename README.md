@@ -1,4 +1,3 @@
-## citibike-tableau-challenge
 **Module 18 Challenge - Citibike**
 
 In this scenario, as a new lead analyst for the New York Citi Bike program, my responsibility was to construct an interactive Tableau Public Workbook and provide valuable insights into the program. 

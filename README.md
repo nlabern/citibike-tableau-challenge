@@ -12,7 +12,52 @@ https://public.tableau.com/app/profile/neal.labern/viz/New_York_CitiBike_Analysi
 
 **Create the Tableau Workbook and Perform Analysis:**
 
-In this section, I imported the cleaned consolidated CSV file into Tableau and generated multiple worksheets to explore the data and extract insights. Once I had a clear understanding of the narrative I intended to convey, I developed five dashboards. Four of these dashboards contribute to the Tableau story, while one is designed to highlight data outliers. It's important to note that the analysis below excluded rides with a duration exceeding 120 minutes.
+Data Analysis and Visualization in Tableau
+1. Data Import:
+
+Source File: 
+
+Cleaned and consolidated CSV file
+Action: 
+
+Imported the CSV file into Tableau to start the data exploration process.
+2. Initial Exploration:
+
+Objective: 
+
+Generate multiple worksheets to explore the dataset.
+Outcome: 
+
+These worksheets helped in uncovering key insights and patterns within the data.
+3. Dashboard Development:
+
+Number of Dashboards: Five
+Purpose:
+Four Dashboards: 
+
+These dashboards were crafted to build a cohesive Tableau story. Each one was designed to illustrate different aspects of the data and provide a comprehensive understanding of the key findings.
+One Dashboard: 
+
+Focused specifically on data outliers. This dashboard was crucial for identifying anomalies and understanding their impact on the analysis.
+
+4. Outlier Handling:
+
+Exclusion Criteria: 
+
+Rides with a duration exceeding 120 minutes were excluded from the analysis.
+
+Rationale: 
+
+This exclusion was necessary to ensure the analysis remained focused and relevant, as extremely long rides might skew the overall insights or reflect atypical patterns.
+
+5. Summary of Dashboards:
+
+Dashboards 1-4: 
+
+Each contributes to telling the overall story derived from the data. They likely cover different dimensions such as ride patterns, user demographics, geographical trends, and performance metrics.
+Dashboard 5 (Outliers): 
+
+Highlights outliers and provides context for why they were excluded, ensuring transparency and justifying the data focus.
 
 **Tableau Story:**
 https://public.tableau.com/app/profile/neal.labern/viz/New_York_CitiBike_Analysis/JerseyCityBikesStory?publish=yes

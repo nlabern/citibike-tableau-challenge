@@ -75,13 +75,13 @@ Finally, I exported the cleaned and consolidated CSV file.
   - JC-202306-citibike-tripdata.csv
   - JC-202307-citibike-tripdata.csv
 
-**My Jupyter Notebook Python Cleaning Script:**
-  - Append and Clean Citibike Data.ipynb
+**My Jupyter Notebook Python Code:**
+  - Citibike_Data.ipynb
 
-**Consolidated Cleaned File I Created:**
-  - Jul22_to_Jul23.csv (note this file was too large to upload to this repository)
+**The Consolidated Data File:**
+  - Jul22_to_Jul23.csv
 
-**Tools/Libraries I Imported:**
+**Tools and Libraries I Imported:**
    - pandas library: for data manipulation and analysis
    - pathlib library: to create and manipulate file and directory paths easily
 

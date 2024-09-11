@@ -7,8 +7,11 @@ I opted to concentrate on Jersey City data from July 2022 to July 2023, inclusiv
 Data Preparation:
 
 Tools Used: 
+
 Jupyter Notebook
+
 Actions Taken: 
+
 Appended and cleaned multiple data files to create a single, consolidated dataset. This involved data wrangling tasks like merging datasets, handling missing values, and ensuring data consistency.
 
 **The URL to my Tableau Public Workbook:**

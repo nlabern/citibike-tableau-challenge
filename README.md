@@ -4,7 +4,9 @@ In this scenario, as a new lead analyst for the New York Citi Bike program, my r
 
 I opted to concentrate on Jersey City data from July 2022 to July 2023, inclusive. The data was provided in the form of zipped CSV files, sourced from: https://s3.amazonaws.com/tripdata/index.html
 
-Using Jupyter Notebook, I appended and cleaned the data files to create a single, consolidated source for uploading to Tableau Public. Once uploaded, I populated worksheets with various measures and views to extract insights. This allowed me to construct a narrative by creating four dashboards. Finally, I designed a dashboard to display data outliers and explained the rationale behind their exclusion from the analysis.
+Data Preparation:
+Tools Used: Jupyter Notebook
+Actions Taken: Appended and cleaned multiple data files to create a single, consolidated dataset. This involved data wrangling tasks like merging datasets, handling missing values, and ensuring data consistency.
 
 **The URL to my Tableau Public Workbook:**
 https://public.tableau.com/app/profile/neal.labern/viz/New_York_CitiBike_Analysis/JerseyCityBikesStory?publish=yes

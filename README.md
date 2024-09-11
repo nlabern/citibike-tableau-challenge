@@ -5,6 +5,7 @@ In this scenario, as a new lead analyst for the New York Citi Bike program, my r
 I opted to concentrate on Jersey City data from July 2022 to July 2023, inclusive. The data was provided in the form of zipped CSV files, sourced from: https://s3.amazonaws.com/tripdata/index.html
 
 Data Preparation:
+
 Tools Used: Jupyter Notebook
 Actions Taken: Appended and cleaned multiple data files to create a single, consolidated dataset. This involved data wrangling tasks like merging datasets, handling missing values, and ensuring data consistency.
 
